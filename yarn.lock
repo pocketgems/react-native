@@ -645,6 +645,11 @@
     lodash "^4.17.10"
     to-fast-properties "^2.0.0"
 
+"@kudo-ci/android-jsc@^174650.0.3":
+  version "174650.0.3"
+  resolved "https://registry.yarnpkg.com/@kudo-ci/android-jsc/-/android-jsc-174650.0.3.tgz#5a957b035587129f26f668240dba84f1ba4f953c"
+  integrity sha512-SWzGHDXgwjJ/Hterrz8FQDOMmHYiUngPupHO5gWd4/5TYWnI4VQIe9C4F3kQ3gwp/kqr9wb8M13yRyuom9mD1Q==
+
 abab@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/abab/-/abab-2.0.0.tgz#aba0ab4c5eee2d4c79d3487d85450fb2376ebb0f"

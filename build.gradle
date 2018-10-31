@@ -20,6 +20,10 @@ buildscript {
 
 allprojects {
     repositories {
+        maven {
+            url "$rootDir/../@kudo-ci/android-jsc/dist"
+        }
+
         google()
         jcenter()
         mavenLocal()

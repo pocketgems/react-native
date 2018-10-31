@@ -150,6 +150,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.0.0",
+    "@kudo-ci/android-jsc": "^174650.0.3",
     "absolute-path": "^0.0.0",
     "art": "^0.10.0",
     "base64-js": "^1.1.2",
